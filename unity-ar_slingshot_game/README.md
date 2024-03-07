@@ -1,1 +1,0 @@
-AR Slingshot Game project using Unity
