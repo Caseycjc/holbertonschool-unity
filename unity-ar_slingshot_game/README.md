@@ -1,1 +1,1 @@
-Holberton Unity AR Slingshot Game
+AR Slingshot Game project using Unity

@@ -7,12 +7,8 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/ARSlingshotGame.unity
-    guid: accb0715cced10e4298d9ff37159356b
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
-    AR Foundation RemoteARFoundationRemoteLoaderSettings: {fileID: 11400000, guid: f8c5df1783a75f14f9c96a623fc793e6, type: 2}
-    AR Foundation RemoteARFoundationRemoteSessionRecordsData: {fileID: 11400000, guid: 1bcb4d55dec48494a90f5d5350491f73, type: 2}
-    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 0d2fc676ed48e834cad40738425301e3, type: 2}
-    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 2da15b174fc09814094926d7918354bf, type: 2}
-    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 6a30440e3609211428416f01c22707b9, type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 266c6c4065c60d54b84a230611897707, type: 2}
-    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 41e552a64855cb842a29ec60c1a1c891, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 049fb4fc4fafe4049939204da1d60033, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2fdbfe25966710a46921f7e0a65ad086, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 138e913bbfbd9134bb7226767ded5f53, type: 2}
